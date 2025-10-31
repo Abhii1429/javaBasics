@@ -1,6 +1,6 @@
 package string.mutableStrings;
 
-public class mutableStr {
+public class mutableStr01 {
     public static void main(String[] args){
         // StringBuffer sb = new StringBuffer("Virat");
         StringBuilder sb = new StringBuilder("Virat");
