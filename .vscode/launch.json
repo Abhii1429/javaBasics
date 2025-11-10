@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "static2",
+            "request": "launch",
+            "mainClass": "StaticKeyword.static2",
+            "projectName": "S(Java)_f6e20a67"
+        },
+        {
+            "type": "java",
+            "name": "static01",
+            "request": "launch",
+            "mainClass": "StaticKeyword.static01",
+            "projectName": "S(Java)_f6e20a67"
+        },
+        {
+            "type": "java",
+            "name": "inbuiltMethodInMutableString03",
+            "request": "launch",
+            "mainClass": "string.mutableStrings.inbuiltMethodInMutableString03",
+            "projectName": "S(Java)_f6e20a67"
+        },
+        {
+            "type": "java",
+            "name": "finalKeyword02",
+            "request": "launch",
+            "mainClass": "string.mutableStrings.finalKeyword02",
+            "projectName": "S(Java)_f6e20a67"
+        },
+        {
+            "type": "java",
+            "name": "mutableStr",
+            "request": "launch",
+            "mainClass": "string.mutableStr",
+            "projectName": "S(Java)_f6e20a67"
+        },
+        {
+            "type": "java",
+            "name": "que1",
+            "request": "launch",
+            "mainClass": "AssignQue.stringQue.que1",
+            "projectName": "S(Java)_24f861a"
+        },
+        {
+            "type": "java",
+            "name": "Pangram08",
+            "request": "launch",
+            "mainClass": "string.Pangram08",
+            "projectName": "S(Java)_24f861a"
+        },
+        {
+            "type": "java",
+            "name": "Anagram07",
+            "request": "launch",
+            "mainClass": "string.Anagram07",
+            "projectName": "S(Java)_24f861a"
+        },
+        {
+            "type": "java",
+            "name": "palindrome06",
+            "request": "launch",
+            "mainClass": "string.palindrome06",
+            "projectName": "S(Java)_24f861a"
+        },
+        {
+            "type": "java",
+            "name": "reversingString05",
+            "request": "launch",
+            "mainClass": "string.reversingString05",
+            "projectName": "S(Java)_24f861a"
+        },
+        {
+            "type": "java",
+            "name": "reversingString05",
+            "request": "launch",
+            "mainClass": "string.reversingString05",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "methodsOfString04",
+            "request": "launch",
+            "mainClass": "string.methodsOfString04",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "concatenationInString03",
+            "request": "launch",
+            "mainClass": "string.concatenationInString03",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "comparingString02",
+            "request": "launch",
+            "mainClass": "string.comparingString02",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "typesOfString01",
+            "request": "launch",
+            "mainClass": "string.typesOfString01",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "anonymousArray04",
+            "request": "launch",
+            "mainClass": "Arrays.anonymousArray04",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "jaggedArray03",
+            "request": "launch",
+            "mainClass": "Arrays.jaggedArray03",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "jaggedArray",
+            "request": "launch",
+            "mainClass": "Arrays.jaggedArray",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "TwoD_Arr02",
+            "request": "launch",
+            "mainClass": "Arrays.TwoD_Arr02",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "basicsOfArr",
+            "request": "launch",
+            "mainClass": "Arrays.basicsOfArr",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "AutoPromotion",
+            "request": "launch",
+            "mainClass": "AutoPromotion",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "S(Java)_c3177a46"
+        },
+        {
+            "type": "java",
+            "name": "Test01",
+            "request": "launch",
+            "mainClass": "Test01",
+            "projectName": "S(Java)_c3177a46"
+        }
+    ]
+}
