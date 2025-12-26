@@ -16,7 +16,9 @@ public class basics_02 {
         // during object creation, constructor is called; which initializes the instance variables with values sent from object
     }
 }
-// =================================
+// ================================================================================
+// Notes on Constructor:
+// A constructor is a special method that is used to initialize objects of a class.
  // Constructor is a special method that is called when an object is created
         // It is used to initialize the object
         // It has the same name as the class
