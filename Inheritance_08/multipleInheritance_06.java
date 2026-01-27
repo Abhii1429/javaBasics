@@ -30,3 +30,4 @@ public class multipleInheritance_06 {
         c.disp(); 
     }
 }
+// Output: Age is: 18
