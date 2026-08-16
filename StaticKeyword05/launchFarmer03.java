@@ -1,4 +1,4 @@
-package StaticKeyword;
+package StaticKeyword05;
 import java.util.Scanner;
 // application for farmer loan
 class Farmer {
