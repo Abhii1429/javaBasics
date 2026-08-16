@@ -1,4 +1,4 @@
-package StaticKeyword;
+package StaticKeyword05;
 // Order of execution in java:
 // 1. static variable
 // 2. static block
